@@ -1,16 +1,15 @@
-## Hi there 👋
+# Main Projects
+## Performance Logger
+Website for logging a collection of datapoints
+* [GitHub](https://github.com/katuta-mwila/performance-logger)
+* [Website Demo](https://performance-logger-demo.vercel.app/)
+* [Website](https://performance-logger.vercel.app/)
+## Games Center
+Website for playing Tic Tac Toe, Connect 4, and Checkers.
+* [GitHub](https://github.com/katuta-mwila/GamesCenter)
+* [Website](https://games-center.azurewebsites.net/)
+## Flag Guesser
+Flag guessing game
+* [GitHub](https://github.com/katuta-mwila/Flag-Guesser)
 
-<!--
-**katuta-mwila/katuta-mwila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+View GitHub page for the full details of each project
