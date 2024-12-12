@@ -12,4 +12,4 @@ Website for playing Tic Tac Toe, Connect 4, and Checkers.
 Flag guessing game
 * [GitHub](https://github.com/katuta-mwila/Flag-Guesser)
 
-View GitHub page for the full details of each project
+View GitHub link for the full details of each project
