@@ -3,6 +3,13 @@ I am a Full Stack web developer passionate about creating websites that are both
 
 Below are examples of some projects I have worked on.
 
+# Skills
+**Full Stack Web Development** \
+Experience working with HTML, CSS, JavaScript, TypeScript, React, NodeJS, C#, .NET, SQL, Git, GitHub, Windows OS, Linux OS.
+
+**Problem Solving**\
+A passion and ability to engage in problem solving using a range of techniques.
+
 # Main Projects
 ## Performance Logger
 Website for logging a collection of datapoints
