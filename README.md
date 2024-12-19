@@ -30,5 +30,5 @@ View GitHub link for the full details of each project
 * New Zealand Certificate (Level 6) in Applied Software Development from Dev Academy Aotearoa, 2024
 
 # Links
-[Portfolio](https://katuta-mwila.github.io/)
-[LinkedIn](https://www.linkedin.com/in/katuta-mwila-b9b498341/)
+* [Portfolio](https://katuta-mwila.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/katuta-mwila-b9b498341/)
