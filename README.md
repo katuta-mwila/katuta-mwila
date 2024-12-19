@@ -1,5 +1,5 @@
 # About me
-I am a Full Stack web developer passionate about creating websites that are both practical and impactful. Problem solving is something I enjoy, and I often develop tools and websites to simplify tasks in my own life. My journey combines a strong self-taught foundation with formal training through Dev Academy NZ. During my self-directed learning, I gained the majority of my technical skills and knowledge in Full Stack development. At Dev Academy, I expanded on this expertise and honed my ability to collaborate in team environments, particularly through group projects during the bootcamp. 
+I am a Full Stack web developer passionate about creating websites that are both practical and impactful. Problem solving is something I enjoy and is often a skill I have needed when developing tools and websites to simplify tasks in my own life. My journey combines a strong self-taught foundation with formal training through Dev Academy NZ. During my self-directed learning, I gained the majority of my technical skills and knowledge in Full Stack development. At Dev Academy, I expanded on this expertise and developed the ability to collaborate in team environments, particularly through group projects during the bootcamp period of the course.
 
 Below are examples of some projects I have worked on.
 
