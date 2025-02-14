@@ -21,7 +21,7 @@ Flag guessing game
 
 View GitHub link for the full details of each project
 
-# Education
+# Certifications
 * New Zealand Certificate (Level 6) in Applied Software Development from Dev Academy Aotearoa, 2024
 * New Zealand Level 6 Certificate, Applied Software Development
 
